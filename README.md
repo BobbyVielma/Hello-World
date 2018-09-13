@@ -4,7 +4,7 @@
 App says hello from me with a custom background and the ability to change the color of the text
 
 ### App Walk-though
-<img src=https://https://imgur.com/gallery/sXCqpYv width=200><br>
+<img src=https://https://imgur.com/gallery/sXCqpYv.gifwidth=200><br>
 
 
 ### Required User Stories
